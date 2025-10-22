@@ -1,4 +1,4 @@
-Our webapp now has been deployed at: http://18.118.103.225:8501! (will not expire until this June)
+Our webapp now has been deployed at: http://18.118.103.225:8501! (Expires June 2025)
 
 Our Demo video: https://youtu.be/n5SN8jQGWzs
 
